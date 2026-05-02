@@ -1,92 +1,59 @@
-# devops-ai-infrastructure-portfolio
-DevOps, cloud automation, AI workflows, and data infrastructure engineering portfolio
-# ⚙️ DevOps + AI Infrastructure Portfolio
+# AP — AI Systems & Infrastructure Engineer
 
-This repository demonstrates production-style systems engineering work across DevOps, cloud automation, data infrastructure, and AI workflow orchestration.
+I build TypeScript-based systems for AI orchestration, auditability, and cloud-native automation.
 
-It is designed to reflect real-world infrastructure thinking:
-- scalable systems
-- automated deployments
+---
+
+## 🧠 Focus
+- Multi-agent systems
+- DevOps + cloud automation
+- AI workflow orchestration
+- Data infrastructure & ETL systems
 - API-driven architecture
-- AI-integrated workflows
-- data pipeline design
 
 ---
 
-## 🧠 Core Focus Areas
+## 🧱 Core Repositories
 
-- Cloud Infrastructure Automation (AWS, Docker, Terraform)
-- CI/CD Pipeline Engineering (GitHub Actions)
-- AI Workflow Orchestration Systems
-- Data Warehousing & ETL Pipelines
-- API Integration & Backend Automation
+### 🔹 Agent Orchestrator (TypeScript)
+Multi-agent execution system with messaging and orchestration logic  
+→ (link your repo here)
 
----
+### 🔹 Audit Trace Engine (in progress)
+Event-driven system for tracking system activity and mutations  
+→ (link when ready)
 
-## 📦 Projects
-
-### 🔧 CI/CD Pipeline Automation
-Automated deployment workflows using GitHub Actions and containerized environments.
-
-Key features:
-- build → test → deploy pipeline structure
-- environment consistency using Docker
-- rollback-ready deployment logic
+### 🔹 Typed Contracts System (in progress)
+Type-safe schemas and validation pipelines  
+→ (link when ready)
 
 ---
 
-### 🤖 AI Workflow Orchestrator
-A modular system that simulates AI-driven task routing and automation pipelines.
+## ⚙️ Engineering Approach
 
-Key features:
-- API-based task execution
-- multi-step workflow logic
-- AI-assisted decision routing design
-
----
-
-### 📊 Data Warehouse ETL System
-Structured ETL pipeline architecture for transforming and modeling data for warehouse systems.
-
-Key features:
-- extraction and transformation logic
-- relational schema design
-- warehouse-ready data structuring
+I design systems that:
+- scale across services
+- remain observable and auditable
+- prioritize automation over manual processes
+- follow API-first and event-driven patterns
 
 ---
 
-## 🏗️ Infrastructure
+## 🏗️ Infrastructure Experience
 
-- Dockerized development environments
-- Terraform-based infrastructure templates
-- AWS deployment notes and architecture patterns
-
----
-
-## ⚙️ System Design Philosophy
-
-> Build systems that scale, self-heal, and automate wherever possible.
-
-Principles:
-- Infrastructure as Code
-- Stateless deployments
-- Event-driven architecture
-- API-first system design
-- automation over manual processes
+- Dockerized environments  
+- CI/CD pipelines (GitHub Actions)  
+- Terraform-based infrastructure  
+- Cloud architecture patterns (AWS)
 
 ---
 
-## 🚀 Goal of This Repo
+## 🚀 Current Direction
 
-This repo is designed to demonstrate:
-- real DevOps engineering thinking
-- AI + automation system design capability
-- cloud-native architecture understanding
-- production-style workflow design
+Building modular, AI-native system architecture as public infrastructure.
 
 ---
 
-## 📫 Contact
-
-LinkedIn: (add your link)  
-GitHub: (this profile)
+## 🔗 Links
+- LinkedIn/ahmad-parr-dev
+- OpenCollective.com/SNAPKITTYWEST
