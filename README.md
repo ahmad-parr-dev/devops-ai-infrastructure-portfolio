@@ -1,8 +1,22 @@
 # AP — AI Systems & Infrastructure Engineer
 
 I build TypeScript-based systems for AI orchestration, auditability, and cloud-native automation.
+# AP — AI Systems Engineer Portfolio
+
+This repository serves as my developer profile hub.
+
+## 🧭 Navigation
+
+### Core Systems (separate repositories)
+- Agent Orchestrator → (link repo)
+- Audit Trace Engine → (coming soon)
+- Typed Contracts System → (coming soon)
 
 ---
+
+## ⚠️ Note
+All production-style systems are maintained in separate repositories for modular architecture and clarity
+
 
 ## 🧠 Focus
 - Multi-agent systems
