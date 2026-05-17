@@ -1,7 +1,7 @@
 # AP — AI Systems & Infrastructure Engineer
 
 I build TypeScript-based systems for AI orchestration, auditability, and cloud-native automation.
-# AP — AI Systems Engineer Portfolio
+
 
 This repository serves as my developer profile hub.
 
